@@ -1,4 +1,4 @@
--- Author: Gayda Mutahar <1048309> <gmutahar@studemt.unimelb.edu.au>
+-- Author: Gayda Mutahar 
 -- Purpose: Project 1 submission (Logical guessing game)
 -- Declerative Programming COMP90048
 -- The University of Melbourne 
